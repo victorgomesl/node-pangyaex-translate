@@ -1,0 +1,6 @@
+# Dependências
+/node_modules
+
+# Outros arquivos e diretórios comuns a serem ignorados
+.DS_Store
+*.log
